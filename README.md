@@ -3,6 +3,6 @@ This is a dynamic web site where people can register their personal informaiton 
 
 Note:
 
-1, There are multiple functionalities of the online app: add record, edit record and delete record.
+1, There are multiple functionalities of the online app: insert, edit and delete.
 
-2. Detailed demonstration of the functionalities can be found from the figures: SC1.png, SC2.png, SC3.png, SC4.png, SC5.png.
+2. Detailed demonstration of the functionalities can be found from the figures: SC1.png, ..., SC7.png.
