@@ -5,4 +5,4 @@ Note:
 
 1, There are multiple functionalities of the online app: insert, edit and delete.
 
-2. Detailed demonstration of the functionalities can be found from the figures: SC1.png, ..., SC7.png.
+2. Detailed demonstration of the functionalities can be found from the figures: SC1.png, ..., SC8.png.
